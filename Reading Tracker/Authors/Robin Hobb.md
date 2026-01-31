@@ -3,7 +3,7 @@ Books:
   - "[[Assassin's Apprentice]]"
   - "[[Assassin's Quest]]"
   - "[[Reading Tracker/Books/Ship of Magic\\|Ship of Magic]]"
-  - "[[The Mad Ship]]"
+  - "[[Reading Tracker/Books/The Mad Ship]]"
   - "[[Ship of Destiny]]"
   - "[[Reading Tracker/Books/Royal Assassin\\|Royal Assassin]]"
 First Name: Robin

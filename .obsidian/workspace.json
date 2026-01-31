@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Victorian Psycho.md",
+                "file": "Mad Ship.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Victorian Psycho"
+              "title": "Mad Ship"
             }
           }
         ],
@@ -205,8 +205,11 @@
   },
   "active": "29c5af1b3dd9ca23",
   "lastOpenFiles": [
-    "Templates/Log Template.md",
+    "Reading Tracker/Books/Mad Ship.md",
+    "Reading Tracker/Books/The Mad Ship.md",
+    "Mad Ship.md",
     "Victorian Psycho.md",
+    "Templates/Log Template.md",
     "Dashboard.md",
     "2026-01-07.md",
     "Reading Tracker/Reading Log/Eye of the World.md",
@@ -214,7 +217,6 @@
     "Reading Tracker/Books/Untitled 1.md",
     "Bases/Reading Log.base",
     "Reading Tracker/Books/Anatomy of an Alibi.md",
-    "Reading Tracker/Books/Mad Ship.md",
     "Reading Tracker/Books/Victorian Psycho.md",
     "Reading Tracker/Series/The Wheel of Time.md",
     "Reading Tracker/Books/Eye of the World.md",
@@ -231,9 +233,7 @@
     "Reading Tracker/Reading Log/Jade City New.md",
     "Reading Tracker/Reading Log/Jade City.md",
     "Reading Tracker/Reading Log/Untitled 1.md",
-    "Templates/Book Template.md",
     "Templates/Reading Log Template.base",
-    "Reading Tracker/Reading Log/Bride.md",
     "Bases",
     "* images/Covers/George R R Martin - A Game of Thrones.jpg",
     "* images/Covers/Naomi Novik - A Deadly Education.jpg",

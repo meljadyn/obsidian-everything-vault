@@ -3,6 +3,6 @@
 |[[Cosmere]]|[[Reading Tracker/Books/The Way of Kings]], [[Reading Tracker/Books/Tress of the Emerald Sea\|Tress of the Emerald Sea]], [[Reading Tracker/Books/Edgedancer\|The Way of Kings]], [[Reading Tracker/Books/Words of Radiance]], [[Reading Tracker/Books/Oathbringer]], [[Reading Tracker/Books/The Final Empire]], [[Rhythm of War]], [[Wind and Truth]], [[Dawnshard]], [[The Sunlit Man]], [[Yumi and the Nightmare Painter]], [[The Frugal Wizard's Handbook For Surviving Medieval England]]|[[The Stormlight Archive]], [[Secret Projects]], [[The Mistborn Trilogy]]|
 |[[Discworld]]|[[Reading Tracker/Books/Mort\|Mort]]|[[Death]]|
 |[[The Legend of Drizzt]]|[[Reading Tracker/Books/Homeland\|Homeland]]|[[The Dark Elf Trilogy]]|
-|[[Realm of the Elderlings]]|[[Assassin's Apprentice]], [[Assassin's Quest]], [[Reading Tracker/Books/Royal Assassin\|Royal Assassin]], [[Reading Tracker/Books/Ship of Magic\|Ship of Magic]], [[The Mad Ship]], [[Ship of Destiny]]|[[The Farseer Trilogy]], [[The Liveship Traders]]|
+|[[Realm of the Elderlings]]|[[Assassin's Apprentice]], [[Assassin's Quest]], [[Reading Tracker/Books/Royal Assassin\|Royal Assassin]], [[Reading Tracker/Books/Ship of Magic\|Ship of Magic]], [[Reading Tracker/Books/The Mad Ship]], [[Ship of Destiny]]|[[The Farseer Trilogy]], [[The Liveship Traders]]|
 |[[Middle Earth]]|[[Reading Tracker/Books/The Fellowship of the Ring\|The Fellowship of the Ring]], [[Reading Tracker/Books/The Hobbit]]|[[The Lord of the Rings]]|
 |[[Series and Universes]]|||

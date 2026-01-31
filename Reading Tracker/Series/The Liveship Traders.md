@@ -2,7 +2,7 @@
 Visual Progress: □□□□□□□□□□ 0%
 Books:
   - "[[Reading Tracker/Books/Ship of Magic\\|Ship of Magic]]"
-  - "[[The Mad Ship]]"
+  - "[[Reading Tracker/Books/The Mad Ship]]"
   - "[[Ship of Destiny]]"
 Planned Book Count: 3
 Progress Description: read 0 of 3 mainline stories
