@@ -2,7 +2,7 @@
 Author:
   - "[[Robert Jordan]]"
 Books:
-  - "[[Eye of the World]]"
+  - "[[Reading Tracker/Books/Eye of the World]]"
 Short Stories:
 Mainline Book Count: "14"
 Planned Book Count: 15

@@ -18,8 +18,8 @@ Rating: 2.5
 Reads:
 Ownership:
   - Hardcover
-First Read:
-Latest Read:
+First Read: 2026-01-30
+Latest Read: 2026-01-30
 ---
 ## Reviews
 
