@@ -1,0 +1,45 @@
+---
+Title: Jade War
+Cover Image: http://books.google.com/books/content?id=otJsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+Author:
+  - "[[Fonda Lee]]"
+Page Count: "627"
+Publication Date: 2019-07-23
+Series:
+  - "[[The Green Bone Saga]]"
+"Series #": 2
+Universe:
+"Universe #":
+Genre:
+  - Fiction
+Description: "The Kaul siblings' battle with rival clans reaches new heights in the heart-pounding continuation of the Green Bone Saga, an epic trilogy about family, honor, and those who live and die by the ancient laws of blood and jade. On the island of Kekon, the Kaul family is locked in a violent feud for control of the capital city and the supply of magical jade that endows trained Green Bone warriors with supernatural powers they alone have possessed for hundreds of years. Beyond Kekon's borders, war is brewing. Powerful foreign governments and mercenary criminal kingpins alike turn their eyes on the island nation. Jade, Kekon's most prized resource, could make them rich - or give them the edge they'd need to topple their rivals. Faced with threats on all sides, the Kaul family is forced to form new and dangerous alliances, confront enemies in the darkest streets and the tallest office towers, and put honor aside in order to do whatever it takes to ensure their own survival—and that of all the Green Bones of Kekon. Praise for the Green Bone Saga: 'A beautifully realized setting, a great cast of characters, and dramatic action scenes. What a fun, gripping read!' —Ann Leckie, Hugo, Nebula, and Arthur C. Clarke Award-winning author 'Lee has upped her game in this novel, with deeper, more nail-biting intrigue and stunning, heart-pumping action scenes. Her character development is pitch-perfect.'―Booklist 'An instantly absorbing tale of blood, honor, family, and magic, spiced with unexpectedly tender character beats.' —NPR The Green Bone Saga Jade City Jade War Jade Legacy"
+"---": ---
+Read Status:
+Rating:
+Reads:
+Ownership:
+Review:
+First Read:
+Latest Read:
+---
+---
+Visual Rating: No Rating
+Cover Image:
+  - http://books.google.com/books/content?id=ZxyKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+Author:
+  - "[[Fonda Lee 2]]"
+Genre:
+  - Fiction
+Publication Date: 2019-07-23
+Description: On the island of Kekon, the Kaul family is locked in a violent feud for control of the capital city and the supply of magical jade that endows trained Green Bone warriors with supernatural powers they alone have possessed for hundreds of years. Beyond Kekon's borders, war is brewing. Powerful foreign governments and mercenary criminal kingpins alike turn their eyes on the island nation. Jade, Kekon's most prized resource, could make them rich - or give them the edge they'd need to topple their rivals. Faced with threats on all sides, the Kaul family is forced to form new and dangerous alliances, confront enemies in the darkest streets and the tallest office towers, and put honor aside in order to do whatever it takes to ensure their own survival - and that of all the Green Bones of Kekon. Jade War is the second book of the Green Bone Saga, an epic trilogy about family, honour and those who live and die by the ancient laws of blood and jade.
+Series:
+  - "[[The Green Bone Saga]]"
+"Series #": 3
+Visual Series: "@The Green Bone Saga #3"
+Author Sort: "Lee, Fonda "
+Page Count: 610
+Sortable Title: Jade War
+Status: No Status
+TBR: false
+Words: 0k
+---

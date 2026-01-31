@@ -1,0 +1,67 @@
+filters:
+  and:
+    - file.folder == "Reading Tracker/Books"
+formulas:
+  Stars: |-
+    "★".repeat(Rating.floor()) + if(
+    Rating % 1 == 0.25, " ¼", if(Rating % 1 == 0.5, " ½", if(Rating % 1 == 0.75, " ¾", ""))) + " ∙ ".repeat(5-Rating.ceil())
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Author
+      - Series
+      - "Series #"
+      - Rating
+      - Genre
+      - Read Status
+      - First Read
+      - Latest Read
+      - Ownership
+      - Page Count
+      - Publication Date
+      - Universe
+      - "Universe #"
+      - formula.Stars
+      - Reads
+    sort:
+      - property: Read Status
+        direction: ASC
+      - property: Author
+        direction: ASC
+      - property: Universe
+        direction: ASC
+      - property: "Universe #"
+        direction: ASC
+      - property: Series
+        direction: ASC
+      - property: "Series #"
+        direction: ASC
+    columnSize:
+      file.name: 199
+      note.Author: 192
+      note.Genre: 80
+  - type: cards
+    name: Book Cards
+    groupBy:
+      property: Date Read
+      direction: DESC
+    order:
+      - file.name
+      - Visual Rating
+    image: note.Cover Image
+    imageAspectRatio: 1.5
+    cardSize: 120
+  - type: cards
+    name: Recent Reads
+    order:
+      - file.name
+      - formula.Stars
+    sort:
+      - property: Latest Read
+        direction: DESC
+    limit: 10
+    image: note.Cover Image
+    imageAspectRatio: 1.5
+    cardSize: 100

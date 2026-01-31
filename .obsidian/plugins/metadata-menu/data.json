@@ -1,0 +1,225 @@
+{
+  "presetFields": [
+    {
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
+      "options": {
+        "sourceType": "ValuesFromDVQuery",
+        "valuesList": {},
+        "valuesFromDVQuery": "dv.pages('\"Reading Tracker/Universe\"').values.map(p => p.file.name)"
+      },
+      "name": "Universe",
+      "id": "3H22Fl",
+      "path": ""
+    },
+    {
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
+      "options": {
+        "sourceType": "ValuesFromDVQuery",
+        "valuesList": {},
+        "valuesFromDVQuery": "dv.pages('\"Board Game Tracker/Players\"').values.map(p => p.file.name)"
+      },
+      "name": "Players",
+      "id": "4pPehB",
+      "path": ""
+    },
+    {
+      "type": "MultiFile",
+      "tagName": "file",
+      "icon": "link",
+      "tooltip": "Accepts multiple internal links",
+      "colorClass": "file",
+      "options": {
+        "dvQueryString": "dv.pages('\"Reading Tracker/Books\"')"
+      },
+      "name": "Books",
+      "id": "FYIYyD",
+      "path": ""
+    },
+    {
+      "type": "MultiFile",
+      "tagName": "file",
+      "icon": "link",
+      "tooltip": "Accepts multiple internal links",
+      "colorClass": "file",
+      "options": {
+        "dvQueryString": "dv.pages('\"Reading Tracker/Reading Journal\"')"
+      },
+      "name": "Reads",
+      "id": "GHTvKZ",
+      "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Unread",
+          "2": "To Be Read",
+          "3": "Reading",
+          "4": "Completed",
+          "5": "Did Not Finish",
+          "6": "Paused"
+        }
+      },
+      "name": "Read Status",
+      "id": "GOnlVq",
+      "path": ""
+    },
+    {
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
+      "options": {
+        "sourceType": "ValuesFromDVQuery",
+        "valuesList": {},
+        "valuesFromDVQuery": "dv.pages('\"Reading Tracker/Series\"').values.map(s => \"[[\" + s.file.name + \"]]\")"
+      },
+      "name": "Series",
+      "id": "HtiPH8",
+      "path": ""
+    },
+    {
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "E-Book",
+          "2": "Mass-Market",
+          "3": "Paperback",
+          "4": "Hardcover",
+          "5": "Audiobook",
+          "6": "Unowned"
+        }
+      },
+      "name": "Ownership",
+      "id": "TP1OBS",
+      "path": ""
+    },
+    {
+      "type": "MultiFile",
+      "tagName": "file",
+      "icon": "link",
+      "tooltip": "Accepts multiple internal links",
+      "colorClass": "file",
+      "options": {
+        "dvQueryString": "dv.pages('\"Reading Tracker/Authors\"')"
+      },
+      "name": "Author",
+      "id": "TTcE5Q",
+      "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Friend's Copy",
+          "2": "Owned Copy",
+          "3": "Board Game Bar",
+          "4": "Virtual Copy"
+        },
+        "valuesFromDVQuery": ""
+      },
+      "name": "Who's Copy?",
+      "id": "WLQX85",
+      "path": ""
+    },
+    {
+      "type": "File",
+      "tagName": "file",
+      "icon": "link",
+      "tooltip": "Accepts an internal link",
+      "colorClass": "file",
+      "options": {
+        "dvQueryString": "dv.pages('\"Reading Tracker/Books\"')"
+      },
+      "name": "Collected In",
+      "id": "lgQVtq",
+      "path": ""
+    },
+    {
+      "type": "Number",
+      "tagName": "number",
+      "icon": "plus-minus-glyph",
+      "tooltip": "Accepts a number",
+      "colorClass": "number",
+      "options": {
+        "min": 0,
+        "max": 5,
+        "step": 0.25
+      },
+      "name": "Rating",
+      "id": "sbzK3w",
+      "path": ""
+    },
+    {
+      "tagName": "file",
+      "icon": "link",
+      "colorClass": "file",
+      "type": "File",
+      "tooltip": "Accepts an internal link",
+      "options": {
+        "dvQueryString": "dv.pages('\"Reading Tracker/Books\"')"
+      },
+      "name": "Book",
+      "id": "zoFAjn",
+      "path": ""
+    }
+  ],
+  "fileClassQueries": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": null,
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "fileClass",
+  "settingsVersion": "5.40",
+  "firstDayOfWeek": 0,
+  "enableLinks": true,
+  "enableTabHeader": true,
+  "enableEditor": true,
+  "enableBacklinks": true,
+  "enableStarred": true,
+  "enableFileExplorer": true,
+  "enableSearch": true,
+  "enableProperties": true,
+  "tableViewMaxRecords": 20,
+  "frontmatterListDisplay": "asList",
+  "fileClassExcludedFolders": [],
+  "showIndexingStatusInStatusBar": true,
+  "fileIndexingExcludedFolders": [],
+  "fileIndexingExcludedExtensions": [
+    ".excalidraw.md"
+  ],
+  "fileIndexingExcludedRegex": [
+    "Templates/*"
+  ],
+  "frontmatterOnly": false,
+  "showFileClassSelectInModal": true,
+  "chooseFileClassAtFileCreation": false,
+  "autoInsertFieldsAtFileClassInsertion": false,
+  "fileClassIcon": "package",
+  "isAutoCalculationEnabled": true,
+  "disableDataviewPrompt": false
+}

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 350" preserveAspectRatio="xMidYMid">
+  <defs>
+    <linearGradient id="wave-gradient" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#8B4513"/>
+        <stop offset="100%" stop-color="#F4A460"/>
+    </linearGradient>
+    
+    <path id="wave1" d="M 0 150 Q 125 180, 250 150 T 500 150 L 500 0 L 0 0 Z">
+      <animate attributeName="d" 
+        values="M 0 150 Q 125 180, 250 150 T 500 150 L 500 0 L 0 0 Z;
+                M 0 150 Q 125 120, 250 150 T 500 150 L 500 0 L 0 0 Z;
+                M 0 150 Q 125 180, 250 150 T 500 150 L 500 0 L 0 0 Z"
+        dur="7s" repeatCount="indefinite"/>
+    </path>
+    
+    <path id="wave2" d="M 0 130 Q 125 160, 250 130 T 500 130 L 500 0 L 0 0 Z">
+      <animate attributeName="d"
+        values="M 0 130 Q 125 160, 250 130 T 500 130 L 500 0 L 0 0 Z;
+                M 0 130 Q 125 100, 250 130 T 500 130 L 500 0 L 0 0 Z;
+                M 0 130 Q 125 160, 250 130 T 500 130 L 500 0 L 0 0 Z"
+        dur="5s" repeatCount="indefinite"/>
+    </path>
+    
+    <path id="wave3" d="M 0 110 Q 125 140, 250 110 T 500 110 L 500 0 L 0 0 Z">
+      <animate attributeName="d"
+        values="M 0 110 Q 125 140, 250 110 T 500 110 L 500 0 L 0 0 Z;
+                M 0 110 Q 125 80, 250 110 T 500 110 L 500 0 L 0 0 Z;
+                M 0 110 Q 125 140, 250 110 T 500 110 L 500 0 L 0 0 Z"
+        dur="6s" repeatCount="indefinite"/>
+    </path>
+  </defs>
+  
+  <use href="#wave1" fill="url(#wave-gradient)" opacity="0.3"/>
+  <use href="#wave2" fill="url(#wave-gradient)" opacity="0.4"/>
+  <use href="#wave3" fill="url(#wave-gradient)" opacity="0.5"/>
+</svg>

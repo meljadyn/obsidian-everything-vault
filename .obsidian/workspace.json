@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "5cf4a7b827bcc693",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf8a13d905304d08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3a0c40f8efafedc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03f8f9ddb7f97af8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7af3b4cf52e62f4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e77ded80ec8c455e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "11835e7bf168a52c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "author template",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3f1baac442660207",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a99947de07f6bd7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "865aeeaca5f051b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eb92c62c51f213f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "* images/youth.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for youth"
+            }
+          },
+          {
+            "id": "2a1f34020d376b5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "* images/youth.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from youth"
+            }
+          },
+          {
+            "id": "f23a5564bbc2efb7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "05c40e35966dce20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "* images/youth.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of youth"
+            }
+          },
+          {
+            "id": "2d60bf1b1e0ce645",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "d3a0c40f8efafedc",
+  "lastOpenFiles": [
+    "Bases/Books.base",
+    "Bases/Reading Log.base",
+    "Reading Tracker/Books/Untitled 1.md",
+    "Reading Tracker/Books/A Court of Mist and Fury.md",
+    "Reading Tracker/Books/Untitled.md",
+    "Reading Tracker/Reading Log/All Systems Red.md",
+    "Reading Tracker/Reading Log/Annihilation.md",
+    "Reading Tracker/Reading Log/A Court of Mist and Fury.md",
+    "Reading Tracker/Reading Log/A Court of Mist and Fury New.md",
+    "Templates/Log Template.md",
+    "Dashboard.md",
+    "Templates/Short Story Template.md",
+    "Templates/Series Template.md",
+    "Reading Tracker/Reading Log/Untitled 2.md",
+    "Reading Tracker/Reading Log/Jade City New.md",
+    "Reading Tracker/Reading Log/Jade City.md",
+    "Reading Tracker/Reading Log/Untitled 1.md",
+    "Templates/Book Template.md",
+    "Templates/Reading Log Template.base",
+    "Reading Tracker/Reading Log/Bride.md",
+    "Reading Tracker/Reading Log/Dracula Daily Read.md",
+    "Reading Tracker/Reading Log/Untitled.md",
+    "Reading Tracker/Books/A Natural History of Dragons.md",
+    "Reading Tracker/Books/A Clash of Kings.md",
+    "Reading Tracker/Short Stories/From the Editorial Page of the Falchester Weekly Review.md",
+    "Reading Tracker/Reading Journal/Old Book.md",
+    "Reading Tracker/Reading Journal/Reading Journal.md",
+    "Reading Tracker/Series/The Memoirs of Lady Trent.md",
+    "Bases",
+    "* images/Covers/George R R Martin - A Game of Thrones.jpg",
+    "* images/Covers/Naomi Novik - A Deadly Education.jpg",
+    "* images/Covers",
+    "Untitled.base",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Clippings",
+    "Templates",
+    "* images/26989c283f48f7e399ae89df8e927474.png",
+    "* images/93b43cbf86277663f0e48a1e427e7d51.jpg",
+    "* images/_81e1590e-6318-4882-9f5a-994780e9cec4.jpeg",
+    "Board Game Tracker/Games.base",
+    "People",
+    "Books/Covers/Brandon Sanderson - The Way of Kings.jpg",
+    "/Brandon Sanderson - The Way of Kings.jpg",
+    "* images/Four_Covers 1.jpg",
+    "* images/Four_Covers.jpg",
+    "* images/Five_Covers(6) 1.jpg"
+  ]
+}

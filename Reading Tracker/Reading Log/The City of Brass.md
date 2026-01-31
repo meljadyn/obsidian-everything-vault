@@ -1,0 +1,13 @@
+---
+Rating: 4
+Read Status: Complete
+New Author: true
+Library: true
+Review: This review has spoilers.This is a significantly deeper world than I had expected, and I'm glad that it is. There are still so many more mysteries to unravel, and I'm still hyper-aware that we've never gotten more word on the Ifrit, who claimed to work with Nahri's mother and wanted Nahri alive rather than dead. They exhibited grief over their dead kin, and it was only Dara who said that they were evil, and he's known to be biased in these matters.Overall, the political intrigue was deep, and I feel just as out of my depth as Nahri was trying to navigate it. The unreliable perspectives are amazingly well done here. You can never trust a word out of anyone's mouth, because they're all remarkably biased, and no one paints a full and true story—even if they don't realize it themselves. you never know who to believe and it's honestly one of the best parts of this story.I enjoyed Ali's character a lot once Nahri came in—he felt more grounded because he had ties to the city he was fighting for, whereas earlier, he was compassionate but alone and with no true connections or roots of any kind. I really wanted to connect with him in the early chapters, but even though I was interested in the story of the shafit, their rebellions, and their efforts to protect their people, Ali just felt kind of there and along for the ride, rather than like a person with his own motivations.I loved the struggle Nahri went through in her transition into the court and especially with her failure as a healer. She was introduced to us as a cocky and capable con-artist, who struggled very little to achieve her ends. And watching that break was awesome and altogether too rare these days.I really enjoyed the progression of Nahri and Dara's relationship, but I do wish we'd seen a bit more of their bonding on the way to the city. They both felt so strongly for one another and yet I feel like so much of it was off screen, and I wish we'd seen a bit more of that progression, which took them from distant strangers to reverent friends.I loved Dara's progression into overwhelming overprotectiveness, as I felt it played really well into all of the things we'd already seen hinted in his character. I also loved the moral conundrum, where Nahri clearly cared for him even after seeing him do these horrible things, even though a part of her hated him and never wanted to go with him.Overall, this was a fairly powerful introduction into a very politically charged world, with a character that I really enjoy reading about. I look forward to seeing what comes next.
+End Date: 2022-12-08
+Book:
+  - "[[Reading Tracker/Books/The City of Brass]]"
+Format:
+  - e-book
+Re-Read: false
+---

@@ -1,0 +1,52 @@
+formulas:
+  Untitled: |-
+    "★".repeat(Rating.floor()) + if(
+    Rating % 1 == 0.25, " ¼", if(Rating % 1 == 0.5, " ½", if(Rating % 1 == 0.75, " ¾", ""))) + " ∙ ".repeat(5-Rating.ceil())
+properties:
+  formula.Untitled:
+    displayName: Stars
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Reading Tracker/Reading Log")
+    order:
+      - file.name
+      - Rating
+      - Start Date
+      - End Date
+      - Read Status
+      - Format
+      - Book
+      - Re-Read
+      - New Author
+      - Library
+      - formula.Untitled
+    sort:
+      - property: End Date
+        direction: DESC
+      - property: formula.Latest Read Date
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: formula.Untitled
+        direction: DESC
+      - property: Format
+        direction: ASC
+    columnSize:
+      note.Format: 98
+      formula.Untitled: 106
+  - type: cards
+    name: Covers
+    filters:
+      and:
+        - file.inFolder("Reading Tracker/Books")
+    image: note.Cover Image
+    imageAspectRatio: 1.5
+    cardSize: 120
+  - type: cards
+    name: Recent Reads
+    filters:
+      and:
+        - file.folder == "Reading Tracker/Books"

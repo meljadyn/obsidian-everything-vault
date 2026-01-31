@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.folder == "Board Game Tracker/Games"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Weight
+      - Weight Descriptor
+      - Year Published
+      - Mechanics
+      - Best Player Count

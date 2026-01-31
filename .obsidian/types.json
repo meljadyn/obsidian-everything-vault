@@ -1,0 +1,21 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Dates": "date",
+    "First Read Date": "date",
+    "Most Recent Read": "date",
+    "First Read": "date",
+    "Latest Read": "date",
+    "Universe #": "number",
+    "Series": "multitext",
+    "Cover Image": "text",
+    "Page Count": "text",
+    "Publication Date": "date",
+    "Re-Read": "checkbox",
+    "Series Number": "number",
+    "Start Date": "date",
+    "Read Status": "multitext"
+  }
+}

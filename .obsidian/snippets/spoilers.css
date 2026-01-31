@@ -1,0 +1,8 @@
+spoiler {
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+spoiler:hover {
+  filter: none;
+  -webkit-filter: none;
+}
