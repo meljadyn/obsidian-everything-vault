@@ -10,6 +10,7 @@
           {
             "id": "d3a0c40f8efafedc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Dashboard"
             }
@@ -182,7 +184,8 @@
       "bases:Create new base": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d3a0c40f8efafedc",
