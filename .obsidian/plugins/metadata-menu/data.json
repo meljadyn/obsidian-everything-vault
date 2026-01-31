@@ -44,19 +44,6 @@
       "path": ""
     },
     {
-      "type": "MultiFile",
-      "tagName": "file",
-      "icon": "link",
-      "tooltip": "Accepts multiple internal links",
-      "colorClass": "file",
-      "options": {
-        "dvQueryString": "dv.pages('\"Reading Tracker/Reading Journal\"')"
-      },
-      "name": "Reads",
-      "id": "GHTvKZ",
-      "path": ""
-    },
-    {
       "type": "Select",
       "tagName": "select",
       "icon": "right-triangle",
@@ -132,6 +119,19 @@
       "path": ""
     },
     {
+      "tagName": "file",
+      "icon": "link",
+      "colorClass": "file",
+      "type": "MultiFile",
+      "tooltip": "Accepts multiple internal links",
+      "options": {
+        "dvQueryString": "dv.pages('\"Reading Tracker/Series\"')"
+      },
+      "name": "Series",
+      "id": "gye4sG",
+      "path": ""
+    },
+    {
       "type": "File",
       "tagName": "file",
       "icon": "link",
@@ -179,10 +179,10 @@
       "type": "MultiFile",
       "tooltip": "Accepts multiple internal links",
       "options": {
-        "dvQueryString": "dv.pages('\"Reading Tracker/Series\"')"
+        "dvQueryString": "dv.pages('\"Reading Tracker/Reading Log\"')"
       },
-      "name": "Series",
-      "id": "gye4sG",
+      "name": "Reads",
+      "id": "GHTvKZ",
       "path": ""
     }
   ],
@@ -192,7 +192,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.41",
+  "settingsVersion": "5.42",
   "firstDayOfWeek": 0,
   "enableLinks": true,
   "enableTabHeader": true,

@@ -1,11 +1,14 @@
 ---
 Read Status: Reading
-New Author: true
-Library: false
 Start Date: 2025-05-04
-Book:
-  - "[[Reading Tracker/Books/Dracula Daily]]"
+End Date:
 Format:
   - e-book
+Review:
+Rating:
+Book:
+  - "[[Reading Tracker/Books/Dracula Daily]]"
+New Author: false
 Re-Read: false
+Library: false
 ---

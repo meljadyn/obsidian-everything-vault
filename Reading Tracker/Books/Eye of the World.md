@@ -1,6 +1,6 @@
 ---
 Title: The Eye of the World
-Cover Image: http://books.google.com/books/content?id=pZJ2H63MAioC&printsec=frontcover&img=1&zoom=1&source=gbs_api
+Cover Image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1597706026i/55001745.jpg
 Author:
   - "[[Robert Jordan]]"
 Page Count: "706"

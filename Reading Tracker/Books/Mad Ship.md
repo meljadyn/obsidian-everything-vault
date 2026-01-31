@@ -1,6 +1,6 @@
 ---
 Title: Mad Ship
-Cover Image: http://books.google.com/books/content?id=xu7aCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+Cover Image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1437946913i/25985861.jpg
 Author:
   - "[[Robin Hobb]]"
 Page Count: "864"

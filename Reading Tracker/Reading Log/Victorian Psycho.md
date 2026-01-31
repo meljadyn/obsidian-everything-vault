@@ -7,7 +7,7 @@ Read Status:
 Format:
   - e-book
 Review: I picked up this book largely on misunderstanding, as I thought it was something it wasn't.
-Book:
+Book: "[[Reading Tracker/Books/Victorian Psycho]]"
 Re-Read: false
 New Author: true
 Library: false
