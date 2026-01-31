@@ -1,6 +1,6 @@
 ---
 Title: Annihilation
-Cover Image: http://books.google.com/books/content?id=qUo0AQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+Cover Image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1403941587i/17934530.jpg
 Author:
   - "[[Jeff VanderMeer]]"
 Page Count: "209"

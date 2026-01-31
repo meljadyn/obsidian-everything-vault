@@ -1,6 +1,6 @@
 ---
 Title: All Systems Red
-Cover Image: http://books.google.com/books/content?id=ZSu2DQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+Cover Image: https://upload.wikimedia.org/wikipedia/en/8/8f/All_Systems_Red_-_The_Murderbot_Diaries_1_%28cover%29.jpg
 Author:
   - "[[Martha Wells]]"
 Page Count: "96"
