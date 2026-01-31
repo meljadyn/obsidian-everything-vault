@@ -84,21 +84,6 @@
       "tooltip": "Accepts multiple values from a list",
       "colorClass": "multi",
       "options": {
-        "sourceType": "ValuesFromDVQuery",
-        "valuesList": {},
-        "valuesFromDVQuery": "dv.pages('\"Reading Tracker/Series\"').values.map(s => \"[[\" + s.file.name + \"]]\")"
-      },
-      "name": "Series",
-      "id": "HtiPH8",
-      "path": ""
-    },
-    {
-      "type": "Multi",
-      "tagName": "multi",
-      "icon": "bullet-list",
-      "tooltip": "Accepts multiple values from a list",
-      "colorClass": "multi",
-      "options": {
         "sourceType": "ValuesList",
         "valuesList": {
           "1": "E-Book",
@@ -175,16 +160,29 @@
       "path": ""
     },
     {
+      "type": "File",
       "tagName": "file",
       "icon": "link",
-      "colorClass": "file",
-      "type": "File",
       "tooltip": "Accepts an internal link",
+      "colorClass": "file",
       "options": {
         "dvQueryString": "dv.pages('\"Reading Tracker/Books\"')"
       },
       "name": "Book",
       "id": "zoFAjn",
+      "path": ""
+    },
+    {
+      "tagName": "file",
+      "icon": "link",
+      "colorClass": "file",
+      "type": "MultiFile",
+      "tooltip": "Accepts multiple internal links",
+      "options": {
+        "dvQueryString": "dv.pages('\"Reading Tracker/Series\"')"
+      },
+      "name": "Series",
+      "id": "gye4sG",
       "path": ""
     }
   ],
@@ -194,7 +192,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.40",
+  "settingsVersion": "5.41",
   "firstDayOfWeek": 0,
   "enableLinks": true,
   "enableTabHeader": true,
