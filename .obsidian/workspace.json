@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mad Ship.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mad Ship"
+              "title": "Untitled"
             }
           }
         ],
@@ -205,9 +205,10 @@
   },
   "active": "29c5af1b3dd9ca23",
   "lastOpenFiles": [
+    "Mad Ship.md",
+    "Untitled.md",
     "Reading Tracker/Books/Mad Ship.md",
     "Reading Tracker/Books/The Mad Ship.md",
-    "Mad Ship.md",
     "Victorian Psycho.md",
     "Templates/Log Template.md",
     "Dashboard.md",
@@ -232,7 +233,6 @@
     "Reading Tracker/Reading Log/Untitled 2.md",
     "Reading Tracker/Reading Log/Jade City New.md",
     "Reading Tracker/Reading Log/Jade City.md",
-    "Reading Tracker/Reading Log/Untitled 1.md",
     "Templates/Reading Log Template.base",
     "Bases",
     "* images/Covers/George R R Martin - A Game of Thrones.jpg",
