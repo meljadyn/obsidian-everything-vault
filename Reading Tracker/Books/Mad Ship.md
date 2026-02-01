@@ -9,7 +9,7 @@ Series:
   - "[[The Liveship Traders]]"
 "Series #": 2
 Universe:
-  - Realm of the Elderlings
+  - "[[Realm of the Elderlings]]"
 "Universe #": 5
 Genre:
   - Fiction

@@ -6,10 +6,13 @@ formulas:
     "★".repeat(Rating.floor()) + if(
     Rating % 1 == 0.25, " ¼", if(Rating % 1 == 0.5, " ½", if(Rating % 1 == 0.75, " ¾", ""))) + " ∙ ".repeat(5-Rating.ceil())
   Rating: if(note["Read Status"]=="Completed", formula.Stars, note["Read Status"])
-  Last Read Date: file(link(Reads[0])).Properties["End Date"]
+  Last Read Date: file(link(Reads[Reads.length - 1])).Properties["End Date"]
+  First Read: file(link(Reads[Reads.length - 1])).Properties["End Date"]
 properties:
   formula.Stars:
     displayName: Stars
+  formula.Last Read Date:
+    displayName: Latest Read
 views:
   - type: table
     name: Table
@@ -22,7 +25,9 @@ views:
       - Genre
       - Read Status
       - First Read
+      - formula.First Read
       - Latest Read
+      - formula.Last Read Date
       - Ownership
       - Page Count
       - Publication Date
@@ -30,7 +35,6 @@ views:
       - "Universe #"
       - Reads
       - formula.Rating
-      - formula.Last Read Date
     sort:
       - property: formula.Last Read Date
         direction: DESC
@@ -52,6 +56,7 @@ views:
       file.name: 199
       note.Author: 192
       note.Genre: 80
+      note.Reads: 305
   - type: cards
     name: Book Cards
     groupBy:

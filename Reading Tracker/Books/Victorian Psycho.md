@@ -6,7 +6,6 @@ Author:
 Page Count: "142"
 Publication Date: 2025-02-04
 Series:
-  - ""
 "Series #":
 Universe:
 "Universe #":
