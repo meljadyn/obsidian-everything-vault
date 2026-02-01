@@ -1,10 +1,11 @@
 formulas:
-  Untitled: |-
+  ☸︎ Rating: if(note["Read Status"]=="Completed", formula.Stars, note["Read Status"])
+  Stars: |-
     "★".repeat(Rating.floor()) + if(
     Rating % 1 == 0.25, " ¼", if(Rating % 1 == 0.5, " ½", if(Rating % 1 == 0.75, " ¾", ""))) + " ∙ ".repeat(5-Rating.ceil())
 properties:
-  formula.Untitled:
-    displayName: Stars
+  formula.☸︎ Rating:
+    displayName: Rating
 views:
   - type: table
     name: Table
@@ -22,21 +23,25 @@ views:
       - Re-Read
       - New Author
       - Library
-      - formula.Untitled
+      - formula.☸︎ Rating
     sort:
+      - property: formula.☸︎ Rating
+        direction: ASC
+      - property: formula.Untitled
+        direction: DESC
       - property: End Date
         direction: DESC
       - property: formula.Latest Read Date
         direction: ASC
       - property: file.name
         direction: ASC
-      - property: formula.Untitled
-        direction: DESC
       - property: Format
         direction: ASC
     columnSize:
+      note.Rating: 58
       note.Format: 98
-      formula.Untitled: 106
+      note.New Author: 79
+      note.Library: 73
   - type: cards
     name: Covers
     filters:

@@ -24,16 +24,17 @@
             }
           },
           {
-            "id": "873369b7ccb25dbf",
+            "id": "45ada2f93e49ae66",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Reading Log.base",
-                "viewName": "Table"
+                "file": "Reading Tracker/Books/A Natural History of Dragons.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Reading Log"
+              "icon": "lucide-file",
+              "title": "A Natural History of Dragons"
             }
           }
         ],
@@ -201,16 +202,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "873369b7ccb25dbf",
+  "active": "45ada2f93e49ae66",
   "lastOpenFiles": [
-    "Reading Tracker/Books/A Court of Thorns and Roses.md",
-    "Reading Tracker/Books/A Court of Wings and Ruin.md",
-    "Templates/Book Template.md",
-    "Reading Tracker/Books/A Dance with Dragons.md",
+    "Reading Tracker/Books/A Clash of Kings.md",
     "Reading Tracker/Books/A Court of Mist and Fury.md",
     "Reading Tracker/Books/A Conjuring of Light.md",
-    "Reading Tracker/Books/A Clash of Kings.md",
+    "Templates/Book Template.md",
+    "Bases/Books.base",
+    "Reading Tracker/Reading Log/The Eye of the World.md",
+    "Bases/Reading Log.base",
     "Dashboard.md",
+    "Reading Tracker/Reading Log/Untitled.md",
+    "Reading Tracker/Books/A Court of Thorns and Roses.md",
+    "Reading Tracker/Books/A Court of Wings and Ruin.md",
+    "Reading Tracker/Books/A Dance with Dragons.md",
     "Reading Tracker/Books/The Grace of Kings.md",
     "Reading Tracker/Reading Log/The Grace of Kings.md",
     "Reading Tracker/Books/All Systems Red.md",
@@ -226,11 +231,6 @@
     "Reading Tracker/Books/The Mad Ship.md",
     "Templates/Log Template.md",
     "2026-01-07.md",
-    "Reading Tracker/Reading Log/Eye of the World.md",
-    "Reading Tracker/Reading Log/Untitled.md",
-    "Reading Tracker/Books/Untitled 1.md",
-    "Bases/Reading Log.base",
-    "Bases/Books.base",
     "Templates/Reading Log Template.base",
     "Bases",
     "* images/Covers/George R R Martin - A Game of Thrones.jpg",

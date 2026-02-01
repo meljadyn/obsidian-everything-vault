@@ -5,12 +5,11 @@ formulas:
   Stars: |-
     "★".repeat(Rating.floor()) + if(
     Rating % 1 == 0.25, " ¼", if(Rating % 1 == 0.5, " ½", if(Rating % 1 == 0.75, " ¾", ""))) + " ∙ ".repeat(5-Rating.ceil())
-  ✨ Rating: if(note["Read Status"]=="Completed", formula.Stars, note["Read Status"])
+  Rating: if(note["Read Status"]=="Completed", formula.Stars, note["Read Status"])
+  Last Read Date: Reads.formula.size()
 properties:
   formula.Stars:
-    displayName: ⚛︎ Stars
-  formula.✨ Rating:
-    displayName: ⚛︎ Rating
+    displayName: Stars
 views:
   - type: table
     name: Table
@@ -29,9 +28,12 @@ views:
       - Publication Date
       - Universe
       - "Universe #"
-      - formula.Stars
       - Reads
+      - formula.Rating
+      - formula.Last Read Date
     sort:
+      - property: formula.✨ Rating
+        direction: ASC
       - property: Read Status
         direction: ASC
       - property: Author
