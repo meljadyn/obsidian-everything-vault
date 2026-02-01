@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Tracker/Books/A Natural History of Dragons.md",
+                "file": "Reading Tracker/Reading Log/A Natural History of Dragons.md",
                 "mode": "source",
                 "source": false
               },
@@ -71,15 +71,15 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Bases/Books.base",
+                "file": "Bases/Reading Log.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Books"
+              "title": "Reading Log"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,17 +243,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2914d03174a9f8df",
+  "active": "6fea86a03e51a07b",
   "lastOpenFiles": [
-    "Reading Tracker/Books/Untitled.md",
+    "Templates/Book Template.md",
     "Bases/Reading Log.base",
     "Reading Tracker/Reading Log/Untitled.md",
+    "Reading Tracker/Series/The Memoirs of Lady Trent.md",
     "Dashboard.md",
-    "Reading Tracker/Books/A Natural History of Dragons.md",
-    "Templates/Book Template.md",
-    "Reading Tracker/Books/A Clash of Kings.md",
-    "Bases/Books.base",
     "Reading Tracker/Reading Log/A Natural History of Dragons.md",
+    "Reading Tracker/Books/A Clash of Kings.md",
+    "Reading Tracker/Books/A Natural History of Dragons.md",
+    "Bases/Books.base",
+    "Reading Tracker/Books/Untitled.md",
     "Reading Tracker/Books/A Court of Mist and Fury.md",
     "Reading Tracker/Books/A Conjuring of Light.md",
     "Reading Tracker/Reading Log/The Eye of the World.md",
@@ -271,8 +272,6 @@
     "Reading Tracker/Reading Log/Anatomy of an Alibi.md",
     "Reading Tracker/Books/Mad Ship.md",
     "Reading Tracker/Books/Eye of the World.md",
-    "Reading Tracker/Reading Log/Mad Ship.md",
-    "Reading Tracker/Books/The Mad Ship.md",
     "Templates/Reading Log Template.base",
     "Bases",
     "* images/Covers/George R R Martin - A Game of Thrones.jpg",

@@ -1,6 +1,7 @@
 ---
 Rating: 4
-Read Status: Complete
+Read Status:
+  - Completed
 New Author: true
 Library: false
 Review: "Just a great and fun story, and an easy and beautiful introduction to Middle Earth. It really is a great little book. "

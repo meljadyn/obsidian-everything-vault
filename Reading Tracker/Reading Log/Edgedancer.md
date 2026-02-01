@@ -1,6 +1,7 @@
 ---
 Rating: 2
-Read Status: Complete
+Read Status:
+  - Completed
 New Author: false
 Library: false
 Review: I read this a couple years ago now, but the truth is that I just didn’t like Lift. Her personality felt too caricatured for me to appreciate her as someone in Stormlight Archives, and because of that, the plot and stakes didn’t resonate well with me.

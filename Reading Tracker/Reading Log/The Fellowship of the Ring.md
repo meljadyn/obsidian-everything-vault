@@ -1,6 +1,7 @@
 ---
 Rating: 4
-Read Status: Complete
+Read Status:
+  - Completed
 New Author: false
 Library: false
 End Date: 2020-01-01

@@ -9,8 +9,10 @@ formulas:
   Last Read Date: file(link(Reads[Reads.length - 1])).Properties["End Date"]
   First Read: file(link(Reads[0])).Properties["End Date"]
   Test: |-
+    if(
     Reads.map(
-    file(link(value)).Properties["Read Status"])
+    file(link(value)).Properties["Read Status"]).contains("Completed"),
+    "Completed", file(link(Reads[Reads.length - 1])).Properties["Read Status"])
 properties:
   formula.Stars:
     displayName: Stars

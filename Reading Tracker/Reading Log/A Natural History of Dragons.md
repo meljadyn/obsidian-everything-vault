@@ -1,8 +1,7 @@
 ---
 Rating: 3.75
-Read Status: Complete
-New Author: true
-Library: false
+Read Status:
+  - Completed
 Review: |-
   I was looking to get into more non-fiction books, rather than just fantasy. I figured this would be a decent start for someone entirely unwilling to read anything but fantasy.
 
@@ -16,5 +15,7 @@ End Date: 2023-05-03
 Book: "[[Reading Tracker/Books/A Natural History of Dragons]]"
 Format:
   - paper
+Library: false
 Re-Read: false
+New Author: true
 ---

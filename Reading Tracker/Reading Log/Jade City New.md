@@ -10,5 +10,5 @@ Library: true
 Book:
   - "[[Reading Tracker/Books/Jade City]]"
 Read Status:
-  - Complete
+  - Completed
 ---

@@ -27,12 +27,8 @@ views:
     sort:
       - property: formula.☸︎ Rating
         direction: ASC
-      - property: formula.Untitled
-        direction: DESC
       - property: End Date
         direction: DESC
-      - property: formula.Latest Read Date
-        direction: ASC
       - property: file.name
         direction: ASC
       - property: Format

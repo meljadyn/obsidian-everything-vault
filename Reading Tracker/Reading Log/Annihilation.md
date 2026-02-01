@@ -1,7 +1,8 @@
 ---
 Book:
   - "[[Reading Tracker/Books/Annihilation\\|Annihilation]]"
-Read Status: Complete
+Read Status:
+  - Completed
 Start Date: 2024-05-20
 End Date: 2024-05-24
 Rating: 3
