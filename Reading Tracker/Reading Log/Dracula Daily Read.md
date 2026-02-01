@@ -6,4 +6,6 @@ Format:
 Re-Read:
 New Author:
 Library:
+Read Status:
+  - Did Not Finish
 ---

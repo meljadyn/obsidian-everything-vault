@@ -24,17 +24,16 @@
             }
           },
           {
-            "id": "3f6c30eb34e4e74c",
+            "id": "873369b7ccb25dbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "The Grace of Kings.md",
-                "mode": "source",
-                "source": false
+                "file": "Bases/Reading Log.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "The Grace of Kings"
+              "icon": "lucide-table",
+              "title": "Reading Log"
             }
           }
         ],
@@ -91,8 +90,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,10 +201,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f6c30eb34e4e74c",
+  "active": "873369b7ccb25dbf",
   "lastOpenFiles": [
+    "Reading Tracker/Books/A Court of Thorns and Roses.md",
+    "Reading Tracker/Books/A Court of Wings and Ruin.md",
+    "Templates/Book Template.md",
+    "Reading Tracker/Books/A Dance with Dragons.md",
+    "Reading Tracker/Books/A Court of Mist and Fury.md",
+    "Reading Tracker/Books/A Conjuring of Light.md",
+    "Reading Tracker/Books/A Clash of Kings.md",
     "Dashboard.md",
-    "The Grace of Kings.md",
+    "Reading Tracker/Books/The Grace of Kings.md",
+    "Reading Tracker/Reading Log/The Grace of Kings.md",
     "Reading Tracker/Books/All Systems Red.md",
     "Reading Tracker/Books/Annihilation.md",
     "Reading Tracker/Reading Log/Dracula Daily.md",
@@ -224,15 +230,7 @@
     "Reading Tracker/Reading Log/Untitled.md",
     "Reading Tracker/Books/Untitled 1.md",
     "Bases/Reading Log.base",
-    "Reading Tracker/Books/Anatomy of an Alibi.md",
-    "Reading Tracker/Series/The Wheel of Time.md",
     "Bases/Books.base",
-    "Reading Tracker/Reading Log/The Eye of the World.md",
-    "Reading Tracker/Books/A Court of Mist and Fury.md",
-    "Reading Tracker/Reading Log/All Systems Red.md",
-    "Reading Tracker/Reading Log/Annihilation.md",
-    "Reading Tracker/Reading Log/A Court of Mist and Fury.md",
-    "Reading Tracker/Reading Log/A Court of Mist and Fury New.md",
     "Templates/Reading Log Template.base",
     "Bases",
     "* images/Covers/George R R Martin - A Game of Thrones.jpg",

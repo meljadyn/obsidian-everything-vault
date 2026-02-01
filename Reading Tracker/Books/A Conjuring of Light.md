@@ -18,6 +18,7 @@ Read Status: Unread
 Rating:
 Reads:
 Ownership:
+  - Unowned
 Review:
 First Read:
 Latest Read:

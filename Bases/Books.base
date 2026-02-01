@@ -5,6 +5,12 @@ formulas:
   Stars: |-
     "★".repeat(Rating.floor()) + if(
     Rating % 1 == 0.25, " ¼", if(Rating % 1 == 0.5, " ½", if(Rating % 1 == 0.75, " ¾", ""))) + " ∙ ".repeat(5-Rating.ceil())
+  ✨ Rating: if(note["Read Status"]=="Completed", formula.Stars, note["Read Status"])
+properties:
+  formula.Stars:
+    displayName: ⚛︎ Stars
+  formula.✨ Rating:
+    displayName: ⚛︎ Rating
 views:
   - type: table
     name: Table
@@ -57,7 +63,7 @@ views:
     name: Recent Reads
     order:
       - file.name
-      - formula.Stars
+      - formula.✨ Rating
     sort:
       - property: Latest Read
         direction: DESC

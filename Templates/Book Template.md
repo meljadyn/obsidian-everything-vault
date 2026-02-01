@@ -15,9 +15,11 @@ Genre:
 Description: "{{description}}"
 "---": ---
 Read Status:
+  - Unread
 Rating:
 Reads:
 Ownership:
+  - Unowned
 First Read:
 Latest Read:
 ---
