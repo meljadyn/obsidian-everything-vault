@@ -6,7 +6,7 @@ formulas:
     "★".repeat(Rating.floor()) + if(
     Rating % 1 == 0.25, " ¼", if(Rating % 1 == 0.5, " ½", if(Rating % 1 == 0.75, " ¾", ""))) + " ∙ ".repeat(5-Rating.ceil())
   Rating: if(note["Read Status"]=="Completed", formula.Stars, note["Read Status"])
-  Last Read Date: Reads.formula.size()
+  Last Read Date: file(link(Reads[0])).Properties["End Date"]
 properties:
   formula.Stars:
     displayName: Stars
@@ -32,6 +32,8 @@ views:
       - formula.Rating
       - formula.Last Read Date
     sort:
+      - property: formula.Last Read Date
+        direction: DESC
       - property: formula.✨ Rating
         direction: ASC
       - property: Read Status

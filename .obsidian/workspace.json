@@ -36,9 +36,22 @@
               "icon": "lucide-file",
               "title": "A Natural History of Dragons"
             }
+          },
+          {
+            "id": "6fea86a03e51a07b",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Bases/Books.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Books"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,15 +215,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45ada2f93e49ae66",
+  "active": "6fea86a03e51a07b",
   "lastOpenFiles": [
+    "Bases/Reading Log.base",
+    "Reading Tracker/Reading Log/A Natural History of Dragons.md",
+    "Bases/Books.base",
+    "Reading Tracker/Books/A Natural History of Dragons.md",
     "Reading Tracker/Books/A Clash of Kings.md",
     "Reading Tracker/Books/A Court of Mist and Fury.md",
     "Reading Tracker/Books/A Conjuring of Light.md",
     "Templates/Book Template.md",
-    "Bases/Books.base",
     "Reading Tracker/Reading Log/The Eye of the World.md",
-    "Bases/Reading Log.base",
     "Dashboard.md",
     "Reading Tracker/Reading Log/Untitled.md",
     "Reading Tracker/Books/A Court of Thorns and Roses.md",
@@ -229,8 +244,6 @@
     "Reading Tracker/Books/Eye of the World.md",
     "Reading Tracker/Reading Log/Mad Ship.md",
     "Reading Tracker/Books/The Mad Ship.md",
-    "Templates/Log Template.md",
-    "2026-01-07.md",
     "Templates/Reading Log Template.base",
     "Bases",
     "* images/Covers/George R R Martin - A Game of Thrones.jpg",
