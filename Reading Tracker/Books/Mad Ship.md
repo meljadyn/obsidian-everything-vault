@@ -20,8 +20,6 @@ Rating: 5
 Reads:
 Ownership:
   - Paperback
-First Read: 2026-01-26
-Latest Read: 2026-01-26
 ---
 ## Reviews
 

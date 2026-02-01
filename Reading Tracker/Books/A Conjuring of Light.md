@@ -20,6 +20,4 @@ Reads:
 Ownership:
   - Unowned
 Review:
-First Read:
-Latest Read:
 ---

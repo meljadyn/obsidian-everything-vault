@@ -28,6 +28,4 @@ Review: |-
   Classic, Fun Tropeyness: 4/5
 
   I'm the kind of person who watches bad movies when I'm feeling down, and trope-y cliché books hit that exact same craving. This was pretty unoriginal and pretty trope-y and predictable, in all the best ways. It was fun to read, kept a decent pace, and I finished it in a few hours. I'm not a fan of straight romance, so this story had enough fights and action scenes to keep me interested. From a Beauty and the Beast retelling to, well, any 3-trials format retelling, it was a classic trope-y mess and, yes, I mean that in a good way. If you're the type to watch cheesy terrible movies, you might enjoy this read.
-First Read: 2022-11-24
-Latest Read: 2022-11-24
 ---

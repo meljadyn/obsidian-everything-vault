@@ -19,8 +19,6 @@ Rating:
 Reads:
 Ownership:
 Review:
-First Read:
-Latest Read:
 ---
 ---
 Title: "Royal Assassin (The Illustrated Edition)"

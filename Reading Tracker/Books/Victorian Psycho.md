@@ -19,8 +19,6 @@ Reads:
   - "[[Reading Tracker/Reading Log/Victorian Psycho]]"
 Ownership:
   - Hardcover
-First Read: 2026-01-08
-Latest Read: 2026-01-08
 ---
 ## Reviews
 

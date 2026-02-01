@@ -20,6 +20,4 @@ Reads:
 Ownership:
   - Paperback
 Review: This was too long ago, I have no idea.
-First Read: 2018-01-01
-Latest Read: 2018-01-01
 ---

@@ -18,8 +18,6 @@ Rating:
 Reads:
 Ownership:
 Review:
-First Read:
-Latest Read:
 ---
 ---
 Title: "Dracula"

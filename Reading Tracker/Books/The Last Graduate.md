@@ -19,8 +19,6 @@ Rating: 2
 Reads:
 Ownership:
 Review:
-First Read:
-Latest Read:
 ---
 ---
 Visual Rating: No Rating

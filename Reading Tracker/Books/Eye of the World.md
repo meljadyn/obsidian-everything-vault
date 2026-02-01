@@ -19,8 +19,6 @@ Reads:
 Ownership:
   - Paperback
   - Mass-Market
-First Read: 2026-01-06
-Latest Read: 2026-01-06
 ---
 ## Reviews
 

@@ -21,8 +21,6 @@ Reads:
 Ownership:
   - Paperback
 Review:
-First Read: 2026-01-31
-Latest Read: 2026-01-31
 ---
 ---
 Visual Rating: No Rating

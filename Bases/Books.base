@@ -7,7 +7,10 @@ formulas:
     Rating % 1 == 0.25, " ¼", if(Rating % 1 == 0.5, " ½", if(Rating % 1 == 0.75, " ¾", ""))) + " ∙ ".repeat(5-Rating.ceil())
   Rating: if(note["Read Status"]=="Completed", formula.Stars, note["Read Status"])
   Last Read Date: file(link(Reads[Reads.length - 1])).Properties["End Date"]
-  First Read: file(link(Reads[Reads.length - 1])).Properties["End Date"]
+  First Read: file(link(Reads[0])).Properties["End Date"]
+  Test: |-
+    Reads.map(
+    file(link(value)).Properties["Read Status"])
 properties:
   formula.Stars:
     displayName: Stars
@@ -24,10 +27,9 @@ views:
       - Rating
       - Genre
       - Read Status
-      - First Read
       - formula.First Read
-      - Latest Read
       - formula.Last Read Date
+      - formula.Test
       - Ownership
       - Page Count
       - Publication Date
@@ -56,6 +58,7 @@ views:
       file.name: 199
       note.Author: 192
       note.Genre: 80
+      formula.Test: 116
       note.Reads: 305
   - type: cards
     name: Book Cards

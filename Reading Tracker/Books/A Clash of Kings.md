@@ -19,7 +19,5 @@ Rating: 4
 Reads:
 Ownership:
   - Unowned
-First Read: 2018-01-01
-Latest Read: 2018-01-01
 ---
 I recall enjoying this series a long time ago, but it's honestly due for a re-read.

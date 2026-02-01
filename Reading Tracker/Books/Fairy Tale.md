@@ -18,8 +18,6 @@ Rating:
 Reads:
 Ownership:
 Review:
-First Read:
-Latest Read:
 ---
 Visual Rating: ★★⭒⭒⭒ 2.5
 Cover Image:
