@@ -15,8 +15,24 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "Reading Tracker/Reading Log",
+      "template": "Templates/Log Template.md"
+    },
+    {
+      "folder": "Reading Tracker/Books",
+      "template": "Templates/Book Template.md"
+    },
+    {
+      "folder": "Reading Tracker/Series",
+      "template": "Templates/Series Template.md"
+    },
+    {
+      "folder": "Reading Tracker/Authors",
+      "template": "Templates/Author Template.md"
+    },
+    {
+      "folder": "Reading Tracker/Short Stories",
+      "template": "Templates/Short Story Template.md"
     }
   ],
   "enable_file_templates": false,

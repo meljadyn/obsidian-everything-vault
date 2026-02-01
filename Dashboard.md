@@ -1,4 +1,5 @@
-
+Latest Reads:
+![[Books.base#Recent Reads]]
 
 ```chartsview
 # chart type 
@@ -38,6 +39,3 @@ options:
     count:
       alias: "Count"
 ```
-
-Latest Reads:
-![[Books.base#Recent Reads]]

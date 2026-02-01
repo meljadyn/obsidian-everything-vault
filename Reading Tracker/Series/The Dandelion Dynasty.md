@@ -1,7 +1,7 @@
 ---
 Visual Progress: □□□□□□□□□□ 0%
 Books:
-  - "[[The Grace of Kings]]"
+  - "[[Reading Tracker/Books/The Grace of Kings]]"
   - "[[The Wall of Storms]]"
   - "[[The Veiled Throne]]"
   - "[[Speaking Bones]]"
