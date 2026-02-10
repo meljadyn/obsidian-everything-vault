@@ -25,10 +25,10 @@ views:
       - Library
       - formula.☸︎ Rating
     sort:
-      - property: formula.☸︎ Rating
-        direction: ASC
       - property: End Date
         direction: DESC
+      - property: formula.☸︎ Rating
+        direction: ASC
       - property: file.name
         direction: ASC
       - property: Format

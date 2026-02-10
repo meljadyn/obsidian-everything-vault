@@ -22,8 +22,22 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "65d6691aac0b8f1e",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Bases/Reading Log.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Reading Log"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,20 +201,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e77ded80ec8c455e",
+  "active": "65d6691aac0b8f1e",
   "lastOpenFiles": [
+    "Reading Tracker/Books/A Conjuring of Light.md",
+    "Reading Tracker/Books/A Clash of Kings.md",
+    "Dashboard.md",
     "Bases/Reading Log.base",
     "Templates/Book Template.md",
-    "Dashboard.md",
     "Reading Tracker/Reading Log/A Natural History of Dragons.md",
-    "Reading Tracker/Books/A Clash of Kings.md",
     "Reading Tracker/Reading Log/Untitled.md",
     "Reading Tracker/Series/The Memoirs of Lady Trent.md",
     "Reading Tracker/Books/A Natural History of Dragons.md",
     "Bases/Books.base",
     "Reading Tracker/Books/Untitled.md",
     "Reading Tracker/Books/A Court of Mist and Fury.md",
-    "Reading Tracker/Books/A Conjuring of Light.md",
     "Reading Tracker/Reading Log/The Eye of the World.md",
     "Reading Tracker/Books/A Court of Thorns and Roses.md",
     "Reading Tracker/Books/A Court of Wings and Ruin.md",
