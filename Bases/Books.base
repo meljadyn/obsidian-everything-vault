@@ -8,7 +8,7 @@ formulas:
   Rating: if(note["Read Status"]=="Completed", formula.Stars, note["Read Status"])
   Last Read Date: file(link(Reads[Reads.length - 1])).Properties["End Date"]
   First Read: file(link(Reads[0])).Properties["End Date"]
-  Test: |-
+  Read Status: |-
     if(
     Reads.map(
     file(link(value)).Properties["Read Status"]).contains("Completed"),
@@ -28,10 +28,9 @@ views:
       - "Series #"
       - Rating
       - Genre
-      - Read Status
       - formula.First Read
       - formula.Last Read Date
-      - formula.Test
+      - formula.Read Status
       - Ownership
       - Page Count
       - Publication Date
