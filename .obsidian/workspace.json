@@ -35,9 +35,33 @@
               "icon": "lucide-table",
               "title": "Reading Log"
             }
+          },
+          {
+            "id": "6635b430086aaa9c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
+            "id": "323de53c7d905ddf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,7 +225,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65d6691aac0b8f1e",
+  "active": "323de53c7d905ddf",
   "lastOpenFiles": [
     "Reading Tracker/Books/A Conjuring of Light.md",
     "Reading Tracker/Books/A Clash of Kings.md",
