@@ -27,41 +27,32 @@
             "id": "65d6691aac0b8f1e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Reading Log.base",
-                "viewName": "Table"
+                "file": "Reading Tracker/Reading Log/Mad Ship.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Reading Log"
-            }
-          },
-          {
-            "id": "6635b430086aaa9c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Mad Ship"
             }
           },
           {
             "id": "323de53c7d905ddf",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "Reading Tracker/Reading Log/The Eye of the World.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "The Eye of the World"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,21 +216,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "323de53c7d905ddf",
+  "active": "65d6691aac0b8f1e",
   "lastOpenFiles": [
+    "Bases/Reading Log.base",
+    "Reading Tracker/Reading Log/The Eye of the World.md",
+    "Bases/Books.base",
     "Reading Tracker/Books/A Conjuring of Light.md",
     "Reading Tracker/Books/A Clash of Kings.md",
     "Dashboard.md",
-    "Bases/Reading Log.base",
     "Templates/Book Template.md",
     "Reading Tracker/Reading Log/A Natural History of Dragons.md",
     "Reading Tracker/Reading Log/Untitled.md",
     "Reading Tracker/Series/The Memoirs of Lady Trent.md",
     "Reading Tracker/Books/A Natural History of Dragons.md",
-    "Bases/Books.base",
     "Reading Tracker/Books/Untitled.md",
     "Reading Tracker/Books/A Court of Mist and Fury.md",
-    "Reading Tracker/Reading Log/The Eye of the World.md",
     "Reading Tracker/Books/A Court of Thorns and Roses.md",
     "Reading Tracker/Books/A Court of Wings and Ruin.md",
     "Reading Tracker/Books/A Dance with Dragons.md",

@@ -7,9 +7,9 @@ Read Status:
 Format:
   - paper
 Review: |-
-  We started off strong with this book. I *loved* the prologue. Something about Egwene spoke to mea nd I loved how biased her whole chapter was. She was a hypocrite and I loved that she was allowed to be.
+  We started off strong with this book. I *loved* the prologue. Something about Egwene spoke to me and I loved how biased her whole chapter was. She was a hypocrite and I loved that she was allowed to be.
 
-  Loving Egwene behind, I also loved the setting. The excitement over a single Peddler or Gleeman was palbaple, and it's honestly a tragedy that we never got to enjoy the fair the characters were so excited for. *But* Thom. Thom is amazing. I didn't expect them to make a character of Thom but I loved him and honestly I liked that he was one of the driving forces behind the suspicion of Morraine, which was another theme I loved in this story.
+  Loving Egwene behind, I also loved the setting. The excitement over a single Peddler or Gleeman was palpaple, and it's honestly a tragedy that we never got to enjoy the fair the characters were so excited for. *But* Thom. Thom is amazing. I didn't expect them to make a character of Thom but I loved him and honestly I liked that he was one of the driving forces behind the suspicion of Morraine, which was another theme I loved in this story.
 
   However, no story is without flaws and honestly it's Rand. I didn't notice that I found him dull until I got to be in Perrin's head and I realized I liked Perrin more. I can't wait to see more about his Wit. Rand was an unfortunately blank slate for a lot of the story, especially as he is lacking even the simple "gimmicks" that other characters are given, like Mat's pranks or Perrin being "slow".
 
@@ -21,9 +21,9 @@ Re-Read: false
 New Author: true
 Library: false
 ---
-We started off strong with this book. I *loved* the prologue. Something about Egwene spoke to mea nd I loved how biased her whole chapter was. She was a hypocrite and I loved that she was allowed to be.
+We started off strong with this book. I *loved* the prologue. Something about Egwene spoke to me and I loved how biased her whole chapter was. She was a hypocrite and I loved that she was allowed to be.
 
-Loving Egwene behind, I also loved the setting. The excitement over a single Peddler or Gleeman was palbaple, and it's honestly a tragedy that we never got to enjoy the fair the characters were so excited for. *But* Thom. Thom is amazing. I didn't expect them to make a character of Thom but I loved him and honestly I liked that he was one of the driving forces behind the suspicion of Morraine, which was another theme I loved in this story.
+Loving Egwene behind, I also loved the setting. The excitement over a single Peddler or Gleeman was palpaple, and it's honestly a tragedy that we never got to enjoy the fair the characters were so excited for. *But* Thom. Thom is amazing. I didn't expect them to make a character of Thom but I loved him and honestly I liked that he was one of the driving forces behind the suspicion of Morraine, which was another theme I loved in this story.
 
 However, no story is without flaws and honestly it's Rand. I didn't notice that I found him dull until I got to be in Perrin's head and I realized I liked Perrin more. I can't wait to see more about his Wit. Rand was an unfortunately blank slate for a lot of the story, especially as he is lacking even the simple "gimmicks" that other characters are given, like Mat's pranks or Perrin being "slow".
 
