@@ -24,35 +24,35 @@
             }
           },
           {
-            "id": "65d6691aac0b8f1e",
+            "id": "bf9c434da96450af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Tracker/Reading Log/Mad Ship.md",
+                "file": "Reading Tracker/Reading Log/The Grace of Kings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mad Ship"
+              "title": "The Grace of Kings"
             }
           },
           {
-            "id": "323de53c7d905ddf",
+            "id": "78ccb9158c696970",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Tracker/Reading Log/The Eye of the World.md",
+                "file": "Reading Tracker/Books/Anatomy of an Alibi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Eye of the World"
+              "title": "Anatomy of an Alibi"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,17 +216,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65d6691aac0b8f1e",
+  "active": "78ccb9158c696970",
   "lastOpenFiles": [
-    "Bases/Reading Log.base",
-    "Reading Tracker/Reading Log/The Eye of the World.md",
     "Bases/Books.base",
+    "Bases/Reading Log.base",
+    "Dashboard.md",
+    "Reading Tracker/Reading Log/The Grace of Kings.md",
+    "Reading Tracker/Reading Log/Grace of Kings.md",
+    "Reading Tracker/Reading Log/Anatomy of an Alibi.md",
+    "Reading Tracker/Reading Log/The Eye of the World.md",
+    "Reading Tracker/Reading Log/Mad Ship.md",
     "Reading Tracker/Books/A Conjuring of Light.md",
     "Reading Tracker/Books/A Clash of Kings.md",
-    "Dashboard.md",
     "Templates/Book Template.md",
     "Reading Tracker/Reading Log/A Natural History of Dragons.md",
-    "Reading Tracker/Reading Log/Untitled.md",
     "Reading Tracker/Series/The Memoirs of Lady Trent.md",
     "Reading Tracker/Books/A Natural History of Dragons.md",
     "Reading Tracker/Books/Untitled.md",
@@ -235,16 +238,13 @@
     "Reading Tracker/Books/A Court of Wings and Ruin.md",
     "Reading Tracker/Books/A Dance with Dragons.md",
     "Reading Tracker/Books/The Grace of Kings.md",
-    "Reading Tracker/Reading Log/The Grace of Kings.md",
     "Reading Tracker/Books/All Systems Red.md",
     "Reading Tracker/Books/Annihilation.md",
     "Reading Tracker/Reading Log/Dracula Daily.md",
     "Reading Tracker/Reading Log/Victorian Psycho.md",
     "Reading Tracker/Books/Victorian Psycho.md",
     "Reading Tracker/Books/A Darker Shade of Magic.md",
-    "Reading Tracker/Reading Log/Anatomy of an Alibi.md",
     "Reading Tracker/Books/Mad Ship.md",
-    "Reading Tracker/Books/Eye of the World.md",
     "Templates/Reading Log Template.base",
     "Bases",
     "* images/Covers/George R R Martin - A Game of Thrones.jpg",

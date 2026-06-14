@@ -25,6 +25,7 @@ views:
       - file.name
       - Author
       - Series
+      - Reads
       - "Series #"
       - Rating
       - Genre
@@ -36,11 +37,12 @@ views:
       - Publication Date
       - Universe
       - "Universe #"
-      - Reads
       - formula.Rating
     sort:
       - property: formula.Last Read Date
         direction: DESC
+      - property: Reads
+        direction: ASC
       - property: formula.✨ Rating
         direction: ASC
       - property: Read Status

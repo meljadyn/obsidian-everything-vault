@@ -6,7 +6,7 @@ Author:
 Page Count: "353"
 Publication Date: 2026-01-13
 Series:
-"Series #":
+"Series #": 2
 Universe:
 "Universe #":
 Genre:
@@ -16,6 +16,7 @@ Description: "FROM THE #1 NEW YORK TIMES BESTSELLING AUTHOR OF FIRST LIE WINS Tw
 Read Status: Completed
 Rating: 2.5
 Reads:
+  - "[[Reading Tracker/Reading Log/Anatomy of an Alibi]]"
 Ownership:
   - Hardcover
 ---
