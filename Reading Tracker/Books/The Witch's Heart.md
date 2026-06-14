@@ -16,6 +16,7 @@ Description: "When a banished witch falls in love with the legendary trickster L
 Read Status: Completed
 Rating: 2
 Reads:
+  - "[[The Witch’s Heart]]"
 Ownership:
 Review:
 ---

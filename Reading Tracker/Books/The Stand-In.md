@@ -16,6 +16,7 @@ Description: "Featured in USA Today's 'Best Rom-Coms' of May 2023 and one of the
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Stand-In]]"
 Ownership:
 Review:
 ---

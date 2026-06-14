@@ -16,6 +16,7 @@ Description: "A Most Anticipated Novel by PopSugar * Crime Reads * Goodreads * A
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Book of Cold Cases]]"
 Ownership:
 Review:
 ---

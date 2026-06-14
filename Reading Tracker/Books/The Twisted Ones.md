@@ -16,6 +16,7 @@ Description: "When a young woman clears out her deceased grandmother’s home in
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Twisted Ones]]"
 Ownership:
 Review:
 ---

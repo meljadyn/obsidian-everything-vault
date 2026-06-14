@@ -29,30 +29,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Tracker/Reading Log/The Grace of Kings.md",
+                "file": "Reading Tracker/Books/Wind and Truth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Grace of Kings"
-            }
-          },
-          {
-            "id": "78ccb9158c696970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading Tracker/Books/Anatomy of an Alibi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anatomy of an Alibi"
+              "title": "Wind and Truth"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,35 +202,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78ccb9158c696970",
+  "active": "bf9c434da96450af",
   "lastOpenFiles": [
+    "Reading Tracker/Books/When the Wolf Comes Home.md",
+    "Reading Tracker/Books/Wind and Truth.md",
+    "Reading Tracker/Books/Victorian Psycho.md",
+    "Reading Tracker/Books/Voyage of the Basilisk.md",
+    "Reading Tracker/Books/Uprooted.md",
+    "Reading Tracker/Books/Untitled.md",
+    "Reading Tracker/Books/Two Towers.md",
+    "Reading Tracker/Books/Tress of the Emerald Sea.md",
+    "Reading Tracker/Books/Thief Of Time.md",
+    "Reading Tracker/Books/The Witch's Heart.md",
+    "Reading Tracker/Books/The Wise Man's Fear.md",
+    "Reading Tracker/Books/The Winds of Winter.md",
+    "Reading Tracker/Books/The Will of the Many.md",
+    "Reading Tracker/Books/The Well of Ascension.md",
+    "Reading Tracker/Books/The Way of Kings.md",
+    "Reading Tracker/Books/The Wall of Storms.md",
+    "Reading Tracker/Books/The Very Secret Society of Irregular Witches.md",
+    "Reading Tracker/Books/The Veiled Throne.md",
+    "Reading Tracker/Books/The Twisted Ones.md",
+    "Reading Tracker/Books/The Tropic of Serpents.md",
+    "Reading Tracker/Books/The Tower of Swallows.md",
+    "Reading Tracker/Books/The Time of Contempt.md",
+    "Reading Tracker/Books/The Sunlit Man.md",
+    "Reading Tracker/Books/The Stand-In.md",
+    "Reading Tracker/Books/The Slow Regard of Silent Things.md",
+    "Reading Tracker/Books/The Return Of The King.md",
     "Bases/Books.base",
     "Bases/Reading Log.base",
-    "Dashboard.md",
-    "Reading Tracker/Reading Log/The Grace of Kings.md",
-    "Reading Tracker/Reading Log/Grace of Kings.md",
-    "Reading Tracker/Reading Log/Anatomy of an Alibi.md",
-    "Reading Tracker/Reading Log/The Eye of the World.md",
-    "Reading Tracker/Reading Log/Mad Ship.md",
-    "Reading Tracker/Books/A Conjuring of Light.md",
-    "Reading Tracker/Books/A Clash of Kings.md",
-    "Templates/Book Template.md",
-    "Reading Tracker/Reading Log/A Natural History of Dragons.md",
-    "Reading Tracker/Series/The Memoirs of Lady Trent.md",
-    "Reading Tracker/Books/A Natural History of Dragons.md",
-    "Reading Tracker/Books/Untitled.md",
-    "Reading Tracker/Books/A Court of Mist and Fury.md",
-    "Reading Tracker/Books/A Court of Thorns and Roses.md",
-    "Reading Tracker/Books/A Court of Wings and Ruin.md",
-    "Reading Tracker/Books/A Dance with Dragons.md",
-    "Reading Tracker/Books/The Grace of Kings.md",
-    "Reading Tracker/Books/All Systems Red.md",
-    "Reading Tracker/Books/Annihilation.md",
-    "Reading Tracker/Reading Log/Dracula Daily.md",
-    "Reading Tracker/Reading Log/Victorian Psycho.md",
-    "Reading Tracker/Books/Victorian Psycho.md",
-    "Reading Tracker/Books/A Darker Shade of Magic.md",
-    "Reading Tracker/Books/Mad Ship.md",
     "Templates/Reading Log Template.base",
     "Bases",
     "* images/Covers/George R R Martin - A Game of Thrones.jpg",

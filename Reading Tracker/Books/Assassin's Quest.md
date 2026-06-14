@@ -18,6 +18,7 @@ Description: "“An enthralling conclusion to this superb trilogy, displaying an
 Read Status:
 Rating:
 Reads:
+  - "[[Assassin’s Quest]]"
 Ownership:
 Review:
 ---

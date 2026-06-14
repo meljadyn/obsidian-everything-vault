@@ -17,6 +17,7 @@ Description: "NAMED ONE OF THE BEST BOOKS OF THE YEAR BY Library Journal | Vultu
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The City of Brass]]"
 Ownership:
 Review:
 ---

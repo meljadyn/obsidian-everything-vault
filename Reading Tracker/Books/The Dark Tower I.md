@@ -17,6 +17,7 @@ Description: "“An impressive work of mythic magnitude that may turn out to be 
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Gunslinger]]"
 Ownership:
 Review:
 ---

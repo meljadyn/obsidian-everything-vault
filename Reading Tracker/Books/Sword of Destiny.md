@@ -17,6 +17,7 @@ Description: "Geralt the Witcher battles monsters, demons and prejudices alike i
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Sword of Destiny]]"
 Ownership:
 Review:
 ---

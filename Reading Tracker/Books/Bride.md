@@ -16,6 +16,7 @@ Description: "#1 Indie Next Pick! A Hall of Fame LibraryReads pick! One of Peopl
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Bride]]"
 Ownership:
 Review:
 ---

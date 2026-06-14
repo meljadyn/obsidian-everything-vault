@@ -18,6 +18,7 @@ Description: "In this World Fantasy Award-winning novel of magic and kungfu, fou
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Jade City]]"
 Ownership:
 Review:
 ---

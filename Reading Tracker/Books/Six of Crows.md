@@ -17,6 +17,7 @@ Description: "The Grishaverse will be coming to Netflix soon with Shadow and Bon
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Six of Crows]]"
 Ownership:
 Review:
 ---

@@ -17,6 +17,7 @@ Description: "From Brandon Sanderson comes a short novel of the #1 New York Time
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Edgedancer]]"
 Ownership:
 Review:
 ---

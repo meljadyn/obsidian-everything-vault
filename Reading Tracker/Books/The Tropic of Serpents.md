@@ -17,6 +17,7 @@ Description: Three years after her fateful journeys through Vystrana, the widowe
 Read Status:
 Rating:
 Reads:
+  - "[[A Tropic of Serpents]]"
 Ownership:
 Review:
 ---

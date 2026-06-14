@@ -16,6 +16,7 @@ Description: "NEW YORK TIMES BESTSELLER • “It’s Lovecraft meets the Bront�
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Mexican Gothic]]"
 Ownership:
 Review:
 ---

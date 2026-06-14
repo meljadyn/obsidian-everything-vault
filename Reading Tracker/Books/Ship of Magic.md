@@ -17,6 +17,8 @@ Description: "The first book in a seafaring fantasy trilogy that George R. R. Ma
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Ship of Magic]]"
+  - "[[Ship of Magic Re-Read]]"
 Ownership:
 Review:
 ---

@@ -16,6 +16,7 @@ Description: When Hadley Jamison meets a man who identifies himself as Death at 
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/In 27 Days]]"
 Ownership:
 Review:
 ---

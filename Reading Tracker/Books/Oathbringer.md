@@ -17,6 +17,7 @@ Description: "The #1 New York Times bestselling sequel to Words of Radiance, fro
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Oathbringer]]"
 Ownership:
 Review:
 ---

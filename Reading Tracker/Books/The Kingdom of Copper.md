@@ -17,6 +17,7 @@ Description: Return to Daevabad in the spellbinding sequel to THE CITY OF BRASS.
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Kingdom of Copper]]"
 Ownership:
 Review:
 ---

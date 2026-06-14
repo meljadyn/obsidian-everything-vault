@@ -17,6 +17,7 @@ Description: "'A remarkable, razor-sharp debut that cuts straight to the heart.'
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Jasad Heir]]"
 Ownership:
 Review:
 ---

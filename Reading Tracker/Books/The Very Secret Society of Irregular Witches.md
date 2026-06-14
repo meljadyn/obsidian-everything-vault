@@ -16,6 +16,7 @@ Description: "“This is one of my coziest reads of the last year, and I find my
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Very Secret Society of Irregular Witches]]"
 Ownership:
 Review:
 ---

@@ -16,6 +16,7 @@ Description: Stephen's god died on the longest day of the year¿Three years late
 Read Status:
 Rating:
 Reads:
+  - "[[Paladin’s Grace]]"
 Ownership:
 Review:
 ---

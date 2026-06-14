@@ -16,6 +16,7 @@ Description: WELCOME TO THE DARK SIDE OF HAPPILY EVER AFTER Charlie Reade looks 
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Fairy Tale]]"
 Ownership:
 Review:
 ---

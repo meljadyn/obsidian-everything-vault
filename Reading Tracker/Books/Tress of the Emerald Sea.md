@@ -17,6 +17,7 @@ Description: The only life Tress has known on her island home in an emerald-gree
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Tress of the Emerald Sea]]"
 Ownership:
 Review:
 ---

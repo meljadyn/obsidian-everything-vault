@@ -17,6 +17,8 @@ Description: A new epic fantasy series from the New York Times bestselling autho
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Way of Kings]]"
+  - "[[The Way of Kings - Audiobook Re-Read]]"
 Ownership:
 Review:
 ---

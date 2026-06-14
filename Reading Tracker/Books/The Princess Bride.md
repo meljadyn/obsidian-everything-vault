@@ -16,6 +16,7 @@ Description: A writer's views on life and art are revealed in his effort to edit
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Princess Bride]]"
 Ownership:
 Review:
 ---

@@ -17,6 +17,7 @@ Description: Claire Randall is leading a double life. She has a husband in one c
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Outlander]]"
 Ownership:
 Review:
 ---

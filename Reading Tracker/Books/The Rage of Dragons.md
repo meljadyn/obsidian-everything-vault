@@ -17,6 +17,7 @@ Description: Game of Thrones meets Gladiator in this blockbuster debut epic fant
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Rage of Dragons]]"
 Ownership:
 Review:
 ---

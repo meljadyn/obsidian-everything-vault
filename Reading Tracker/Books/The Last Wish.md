@@ -17,6 +17,7 @@ Description: "Geralt the Witcher—revered and hated—holds the line against th
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Last Wish]]"
 Ownership:
 Review:
 ---

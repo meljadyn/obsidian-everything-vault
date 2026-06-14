@@ -16,6 +16,7 @@ Description: "NEW YORK TIMES BESTSELLER • A thrilling collection of twenty-one
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Rogues]]"
 Ownership:
 Review:
 ---

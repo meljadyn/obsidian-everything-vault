@@ -18,6 +18,7 @@ Description: "The second book in a seafaring fantasy trilogy that George R. R. M
 Read Status: Completed
 Rating: 5
 Reads:
+  - "[[Reading Tracker/Reading Log/Mad Ship]]"
 Ownership:
   - Paperback
 ---

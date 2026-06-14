@@ -16,6 +16,7 @@ Description: "NEBULA AWARD WINNER • HUGO AWARD FINALIST • “If you want a f
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Uprooted]]"
 Ownership:
 Review:
 ---

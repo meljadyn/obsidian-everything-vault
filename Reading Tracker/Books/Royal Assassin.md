@@ -17,6 +17,7 @@ Description: Barely escaping with his life after his first mission, young Fitz r
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Royal Assassin]]"
 Ownership:
 Review:
 ---

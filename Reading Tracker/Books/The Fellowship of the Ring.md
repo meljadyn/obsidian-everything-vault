@@ -17,6 +17,7 @@ Description: "The opening novel of The Lord of the Rings—the greatest fantasy 
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Fellowship of the Ring]]"
 Ownership:
 Review:
 ---

@@ -17,6 +17,7 @@ Description: "New York Times bestselling author Terry Pratchett makes Death a ce
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Mort]]"
 Ownership:
 Review:
 ---

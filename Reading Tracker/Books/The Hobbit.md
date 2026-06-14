@@ -17,6 +17,7 @@ Description: This beautiful gift edition of The Hobbit, J.R.R. Tolkien's classic
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Hobbit]]"
 Ownership:
 Review:
 ---

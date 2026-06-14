@@ -16,6 +16,7 @@ Description: In the Third Age the bestial Trollocs hunt the villagers and the Da
 Read Status: Completed
 Rating: 4
 Reads:
+  - "[[The Eye of the World]]"
 Ownership:
   - Paperback
   - Mass-Market

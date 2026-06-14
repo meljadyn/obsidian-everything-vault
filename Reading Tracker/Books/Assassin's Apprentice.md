@@ -18,6 +18,7 @@ Description: "'Fantasy as it ought to be written . . . Robin Hobb’s books are 
 Read Status: Completed
 Rating:
 Reads:
+  - "[[Assassin’s Apprentice]]"
 Ownership:
 Review:
 ---

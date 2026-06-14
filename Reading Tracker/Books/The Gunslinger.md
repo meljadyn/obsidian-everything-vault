@@ -15,6 +15,7 @@ Description: In this first novel in his epic fantasy masterpiece, Stephen King i
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Gunslinger]]"
 Ownership:
 Review:
 ---

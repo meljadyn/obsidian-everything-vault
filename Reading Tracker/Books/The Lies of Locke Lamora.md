@@ -17,6 +17,7 @@ Description: "The first book of the epic fantasy caper Gentleman Bastard Sequenc
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Lies of Locke Lamora]]"
 Ownership:
 Review:
 ---

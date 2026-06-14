@@ -17,6 +17,7 @@ Description: "'Delightfully twisted and evil' GUARDIAN 'Highly recommended ... s
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Blade Itself]]"
 Ownership:
 Review:
 ---

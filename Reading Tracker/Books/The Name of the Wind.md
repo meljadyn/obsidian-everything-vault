@@ -17,6 +17,7 @@ Description: "Discover #1 New York Times-bestselling Patrick Rothfuss’ epic fa
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Name of the Wind]]"
 Ownership:
 Review:
 ---

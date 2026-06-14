@@ -17,6 +17,7 @@ Description: Andrzej Sapkowski’s New York Times bestselling Witcher series has
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Blood of Elves]]"
 Ownership:
 Review:
 ---

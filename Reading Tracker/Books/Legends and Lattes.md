@@ -16,6 +16,7 @@ Description: "An Instant New York Times Bestseller A Barnes & Noble Best Book of
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Legends & Lattes]]"
 Ownership:
 Review:
 ---

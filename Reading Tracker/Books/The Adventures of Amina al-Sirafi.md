@@ -16,6 +16,8 @@ Description: "'A thrilling, transportative adventure that is everything promised
 Read Status:
 Rating:
 Reads:
+  - "[[The Adventures of Amina Al-Sirafi - First Attempt]]"
+  - "[[The Adventures of Amina Al-Sirafi - Second Attempt]]"
 Ownership:
 Review:
 ---

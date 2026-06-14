@@ -16,6 +16,7 @@ Description: The wildly popular email newsletter that has been described as an '
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Dracula Daily]]"
 Ownership:
 Review:
 ---

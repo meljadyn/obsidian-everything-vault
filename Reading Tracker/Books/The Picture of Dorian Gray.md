@@ -16,6 +16,7 @@ Description: An astounding novel of decadence, debauchery, and secrecy from one 
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Picture of Dorian Gray]]"
 Ownership:
 Review:
 ---

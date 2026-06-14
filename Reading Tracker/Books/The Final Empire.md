@@ -17,6 +17,7 @@ Description: "Now with over 10 million copies sold, The Mistborn Series has the 
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/The Final Empire]]"
 Ownership:
 Review:
 ---
