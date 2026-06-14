@@ -17,6 +17,7 @@ Description: "From #1 New York Times bestselling author Brandon Sanderson, Words
 Read Status:
 Rating:
 Reads:
+  - "[[Reading Tracker/Reading Log/Words of Radiance]]"
 Ownership:
 Review:
 ---

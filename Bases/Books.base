@@ -65,12 +65,13 @@ views:
       note.Reads: 305
   - type: cards
     name: Book Cards
-    groupBy:
-      property: Date Read
-      direction: DESC
     order:
       - file.name
-      - Visual Rating
+      - formula.Rating
+    sort:
+      - property: formula.Last Read Date
+        direction: DESC
+    limit: 8
     image: note.Cover Image
     imageAspectRatio: 1.5
     cardSize: 120

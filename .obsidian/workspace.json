@@ -29,16 +29,70 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Tracker/Books/Wind and Truth.md",
+                "file": "Reading Tracker/Books/We Have Always Lived in the Castle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wind and Truth"
+              "title": "We Have Always Lived in the Castle"
+            }
+          },
+          {
+            "id": "851c9f23018407d9",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Bases/Books.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Books"
+            }
+          },
+          {
+            "id": "9978213ef83cd0f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Author Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Author Template"
+            }
+          },
+          {
+            "id": "d11e1a2ce4bcd9d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading Tracker/Reading Log/We Have Always Lived in the Castle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "We Have Always Lived in the Castle"
+            }
+          },
+          {
+            "id": "5ba7e9709d9f08d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading Tracker/Books/We Have Always Lived in the Castle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "We Have Always Lived in the Castle"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,10 +256,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf9c434da96450af",
+  "active": "d3a0c40f8efafedc",
   "lastOpenFiles": [
-    "Reading Tracker/Books/When the Wolf Comes Home.md",
+    "Reading Tracker/Reading Log/We Have Always Lived in the Castle.md",
+    "Reading Tracker/Books/We Have Always Lived in the Castle.md",
+    "Dashboard.md",
+    "Bases/Books.base",
+    "Reading Tracker/Books/The Poet Empress.md",
+    "Bases/Reading Log.base",
+    "Templates/Author Template.md",
+    "Reading Tracker/Books/A Conjuring of Light.md",
+    "Reading Tracker/Reading Log/Bride.md",
+    "Templates/Author Template 1.md",
+    "Reading Tracker/Books/Bride.md",
+    "Reading Tracker/Books/The Grace of Kings.md",
+    "Reading Tracker/Books/Words of Radiance.md",
+    "Reading Tracker/Books/Within the Sanctuary of Wings.md",
     "Reading Tracker/Books/Wind and Truth.md",
+    "Reading Tracker/Books/When the Wolf Comes Home.md",
     "Reading Tracker/Books/Victorian Psycho.md",
     "Reading Tracker/Books/Voyage of the Basilisk.md",
     "Reading Tracker/Books/Uprooted.md",
@@ -217,21 +285,6 @@
     "Reading Tracker/Books/The Wise Man's Fear.md",
     "Reading Tracker/Books/The Winds of Winter.md",
     "Reading Tracker/Books/The Will of the Many.md",
-    "Reading Tracker/Books/The Well of Ascension.md",
-    "Reading Tracker/Books/The Way of Kings.md",
-    "Reading Tracker/Books/The Wall of Storms.md",
-    "Reading Tracker/Books/The Very Secret Society of Irregular Witches.md",
-    "Reading Tracker/Books/The Veiled Throne.md",
-    "Reading Tracker/Books/The Twisted Ones.md",
-    "Reading Tracker/Books/The Tropic of Serpents.md",
-    "Reading Tracker/Books/The Tower of Swallows.md",
-    "Reading Tracker/Books/The Time of Contempt.md",
-    "Reading Tracker/Books/The Sunlit Man.md",
-    "Reading Tracker/Books/The Stand-In.md",
-    "Reading Tracker/Books/The Slow Regard of Silent Things.md",
-    "Reading Tracker/Books/The Return Of The King.md",
-    "Bases/Books.base",
-    "Bases/Reading Log.base",
     "Templates/Reading Log Template.base",
     "Bases",
     "* images/Covers/George R R Martin - A Game of Thrones.jpg",
