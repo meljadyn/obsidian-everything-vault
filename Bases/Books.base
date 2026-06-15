@@ -39,6 +39,8 @@ views:
       - "Universe #"
       - formula.Rating
     sort:
+      - property: Rating
+        direction: ASC
       - property: formula.Last Read Date
         direction: DESC
       - property: Reads
