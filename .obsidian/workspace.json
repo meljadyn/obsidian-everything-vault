@@ -22,8 +22,21 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "dc4b60f1794bd05e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3a0c40f8efafedc",
+  "active": "dc4b60f1794bd05e",
   "lastOpenFiles": [
     "Reading Tracker/Books/Tears of the Wolf.md",
     "Reading Tracker/Books/I'm Glad My Mom Died.md",
